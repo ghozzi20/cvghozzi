@@ -1,0 +1,14 @@
+body  {background-color: #D3D3D3 ;   }
+.conteneur1{display:flex;
+	        justify-content: row;
+	        flex-direction: row; }
+
+
+
+
+	        
+.dadou {background-color: #FA8072;      }    
+.part1 {display-flex;direction: row  }
+.part2  { display-flex;direction :row-reverse;  }
+
+

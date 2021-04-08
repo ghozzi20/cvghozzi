@@ -1,0 +1,12 @@
+body  {background-color: #D3D3D3 ;   }
+
+.dadou {background-color: #FA8072;      }    
+.part2 {float: right;margin-top : 10px;  }
+
+#conteneur{ 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}                    }
